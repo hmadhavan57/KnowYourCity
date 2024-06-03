@@ -2,8 +2,6 @@
 
 Welcome to the Know Your City App, a React application that allows you to retrieve information about a city based on its PIN code. This application utilizes the `Pin` component to facilitate the search and display relevant data.
 
-## Demo
-Check out the live demo of the Know Your City App: [Know Your City Demo](https://know-your-city.vercel.app/)
 
 ## How to Use
 
@@ -17,7 +15,7 @@ Check out the live demo of the Know Your City App: [Know Your City Demo](https:/
    - If the information is available, a modal will open, displaying details about the city, such as post office details.
 
 ## Repository
-Explore the source code on GitHub: [Know Your City Repository](https://github.com/Thamizh5253/Know_Your_City.git)
+Explore the source code on GitHub: [Know Your City Repository](https://github.com/hmadhavan57/Know_Your_City.git)
 
 ## Pin Component
 
@@ -59,3 +57,4 @@ Open your web browser and go to http://localhost:3000 to view the Know Your City
 If you have any questions or encounter issues, feel free to open an issue on the GitHub repository.
 
 Happy exploring and coding!
+
