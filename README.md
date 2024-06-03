@@ -15,7 +15,7 @@ Welcome to the Know Your City App, a React application that allows you to retrie
    - If the information is available, a modal will open, displaying details about the city, such as post office details.
 
 ## Repository
-Explore the source code on GitHub: [Know Your City Repository](https://github.com/hmadhavan57/Know_Your_City.git)
+Explore the source code on GitHub: [Know Your City Repository](https://github.com/hmadhavan57/KnowYourCity.git)
 
 ## Pin Component
 
